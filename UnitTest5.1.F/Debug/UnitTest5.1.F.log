@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  UnitTest5.1.F.cpp
+D:\Lab-5\5.1.F\5.1.F\Triad.h(22,7): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+D:\Lab-5\5.1.F\5.1.F\Triad.cpp(13,133): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+D:\Lab-5\5.1.F\5.1.F\Date_Public.cpp(49): warning C4715: Date_Public::Сomparison: значение возвращается не при всех путях выполнения
+     Создается библиотека D:\Lab-5\5.1.F\Debug\UnitTest5.1.F.lib и объект D:\Lab-5\5.1.F\Debug\UnitTest5.1.F.exp
+  UnitTest5.1.F.vcxproj -> D:\Lab-5\5.1.F\Debug\UnitTest5.1.F.dll
